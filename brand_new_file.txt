@@ -1,3 +1,9 @@
 this is a brand new file.
 new edit to this file.
+<<<<<<< HEAD
 something change
+=======
+chang for new branch
+added something for new branch.
+another one
+>>>>>>> new_branch
